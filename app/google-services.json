@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822546602982",
+    "project_id": "chatapp-a2a18",
+    "storage_bucket": "chatapp-a2a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822546602982:android:daf9e169d87ddb15245427",
+        "android_client_info": {
+          "package_name": "com.bilalkoyun49m.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHevi_f8NJ2F6yNFJU_Nhz3WjzzXzIqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
